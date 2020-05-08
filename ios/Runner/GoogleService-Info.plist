@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>361917272235-lbju8kgne1tn59o48mpffikgotjabnhv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.361917272235-lbju8kgne1tn59o48mpffikgotjabnhv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>361917272235-qad7ub2i4608i62rj1uogde8bfr0q1es.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDbJP41bh_qdykVn3MStcYdGVQXrD6e3I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>361917272235</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kayakstudio.tirelebut</string>
+	<key>PROJECT_ID</key>
+	<string>tire-le-but</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tire-le-but.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:361917272235:ios:9ab41e60108d8ea2e067ee</string>
+	<key>DATABASE_URL</key>
+	<string>https://tire-le-but.firebaseio.com</string>
+</dict>
+</plist>

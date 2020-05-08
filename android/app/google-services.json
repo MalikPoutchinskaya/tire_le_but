@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "361917272235",
+    "firebase_url": "https://tire-le-but.firebaseio.com",
+    "project_id": "tire-le-but",
+    "storage_bucket": "tire-le-but.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361917272235:android:e5981b23a9dccf38e067ee",
+        "android_client_info": {
+          "package_name": "com.kayakstudio.tirelebut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361917272235-cansk495bvrom2oq50q4fm832p9p29ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGP07v8IjqdFuLatqAdxQ0l2wXdw5sddY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361917272235-cansk495bvrom2oq50q4fm832p9p29ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
